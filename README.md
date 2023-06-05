@@ -4,7 +4,7 @@
     <h5>Web Frontend Developer</h5>
   </div>
   <div>
-    <a href="https://portfolio-robin3565.vercel.app/" _target="blank">
+    <a href="https://portfolio-robin3565.vercel.app/" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-00A98F?style=for-the-badge&logo=About.me&logoColor=white"> 
     </a>
   </div>
