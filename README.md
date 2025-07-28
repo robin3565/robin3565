@@ -1,7 +1,8 @@
 <div align=center>
   <div>
     <h3>김유선 / Robin Kim</h3>
-    <h4>Web Frontend Developer</h4>
+    <h4>(구)Web Frontend Developer</h4>
+    <h4>(현)개발하는 전산직 공무원</h4>
   </div>
 <!--   <div>
     <a href="https://portfolio-robin3565.vercel.app/" target="_blank">
