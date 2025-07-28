@@ -34,7 +34,6 @@
     <h3>𝗧𝗼𝗼𝗹𝘀</h3>
   </div>
   <div>
-    <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white">
     <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
     <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white">
     <br>
